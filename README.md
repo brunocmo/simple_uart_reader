@@ -1,6 +1,6 @@
-# Visual Studio Code C++ Template
+## Simple UART Reader
 
-Template for building and debugging C++ files at Visual Studio Code
+Check if baudrate is correct.
 
 ***
 
